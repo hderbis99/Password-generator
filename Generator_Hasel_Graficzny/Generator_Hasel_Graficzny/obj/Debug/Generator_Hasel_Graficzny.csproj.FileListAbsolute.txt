@@ -1,0 +1,10 @@
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\bin\Debug\Generator_Hasel_Graficzny.exe.config
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\bin\Debug\Generator_Hasel_Graficzny.exe
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\bin\Debug\Generator_Hasel_Graficzny.pdb
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\obj\Debug\Generator_Hasel_Graficzny.csproj.AssemblyReference.cache
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\obj\Debug\Generator_Hasel_Graficzny.Generator_V2.resources
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\obj\Debug\Generator_Hasel_Graficzny.Properties.Resources.resources
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\obj\Debug\Generator_Hasel_Graficzny.csproj.GenerateResource.cache
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\obj\Debug\Generator_Hasel_Graficzny.csproj.CoreCompileInputs.cache
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\obj\Debug\Generator_Hasel_Graficzny.exe
+C:\Users\hderb\Documents\Visual_Projekty\Generator_Hasel_Graficzny\Generator_Hasel_Graficzny\obj\Debug\Generator_Hasel_Graficzny.pdb
